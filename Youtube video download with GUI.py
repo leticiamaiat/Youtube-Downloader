@@ -32,7 +32,3 @@ btn = Button(window, text="OK", command=clicked)
 btn.grid(column=1, row=3)
 
 window.mainloop()
-
-
-
-#print(yt.title,"salvo com sucesso")
